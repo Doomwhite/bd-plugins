@@ -1,0 +1,33 @@
+{
+	"changelog": {
+		"currentversion": "1.3.3"
+	},
+	"choices": {
+		"creationDateLang": "$discord"
+	},
+	"dates": {
+		"timestampDate": {},
+		"tooltipDate": {}
+	},
+	"formats": {
+		"ownFormat": "$hour:$minute:$second, $day.$month.$year"
+	},
+	"general": {
+		"showInChat": true,
+		"showInEmbed": true,
+		"showInAuditLogs": true,
+		"changeForChat": true,
+		"changeForEdit": true
+	},
+	"settings": {
+		"showInChat": false,
+		"showInEmbed": false,
+		"showOnHover": true,
+		"changeForEdit": false,
+		"displayTime": false,
+		"displayDate": false,
+		"cutSeconds": false,
+		"forceZeros": false,
+		"otherOrder": false
+	}
+}

@@ -1,0 +1,47 @@
+{
+    "settings": {
+        "fileNameType": "original",
+        "sortMode": "a-z",
+        "displayUpdateNotes": true,
+        "dropdownOnTop": true
+    },
+    "data": {
+        "folders": [
+            {
+                "path": "C:\\Users\\Adinelso\\Desktop\\Nothing\\Top10\\Album(Imgs aleatórias)",
+                "name": "Album(Imgs aleatórias)",
+                "position": "6"
+            },
+            {
+                "path": "C:\\Users\\Adinelso\\Desktop\\Nothing\\Top10\\EXHENTAI BACKUP",
+                "name": "EXHENTAI BACKUP",
+                "position": "2"
+            },
+            {
+                "path": "C:\\Users\\Adinelso\\Desktop\\Nothing\\memes",
+                "name": "memes",
+                "position": "6"
+            },
+            {
+                "path": "C:\\Users\\Adinelso\\Desktop\\Nothing",
+                "name": "Nothing",
+                "position": "4"
+            },
+            {
+                "path": "C:\\Users\\Adinelso\\Desktop\\Nothing\\Top10\\Top Pages(Imagens)",
+                "name": "Top Pages(Imagens)",
+                "position": "5"
+            },
+            {
+                "path": "C:\\Users\\Adinelso\\Desktop\\Nothing\\Top10",
+                "name": "Top10",
+                "position": "4"
+            },
+            {
+                "path": "C:\\Users\\Cliente\\Desktop\\Wallpapers\\Wallpapers",
+                "name": "Wallpapers",
+                "position": "1"
+            }
+        ]
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "settings": {
+        "enableStartTime": false,
+        "clientID": "paste your client id here",
+        "largeImageKey": "2",
+        "smallImageKey": "3",
+        "smallImageText": "Don't Join My Discord",
+        "largeImageText": "Don't Subscribe to my channel",
+        "state": "https://discord.gg/t3v7SWH",
+        "details": "https://youtube.com/rimelstube"
+    }
+}

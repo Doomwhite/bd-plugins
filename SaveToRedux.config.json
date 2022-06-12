@@ -1,0 +1,31 @@
+{
+    "currentVersionInfo": {
+        "version": "2.4.8",
+        "hasShownChangelog": true
+    },
+    "settings": {
+        "saveOptions": {
+            "fileNameType": 0,
+            "customFileName": "${file}_${date}_${time}",
+            "randLength": 7,
+            "conflictingFilesHandle": 0,
+            "saveByName": true,
+            "appendCurrentName": false
+        },
+        "misc": {
+            "contextMenuOnBottom": false
+        }
+    },
+    "folders": {
+        "data": [
+            {
+                "path": "C:\\Users\\Cliente\\Desktop\\Nothing\\Top10\\Top Pages(Imagens)",
+                "name": "Top Pages(Imagens)"
+            },
+            {
+                "path": "C:\\Users\\Cliente\\Desktop\\Nothing\\Top10\\Imagens Bonitas",
+                "name": "Imagens Bonitas"
+            }
+        ]
+    }
+}
