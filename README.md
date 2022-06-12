@@ -1,1 +1,1 @@
-My betterdiscord plugins repo
+My BetterDiscord plugins repository.
